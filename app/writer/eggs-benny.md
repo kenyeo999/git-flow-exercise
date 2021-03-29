@@ -5,3 +5,5 @@
 Recipe Picks:
 
 - January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
+- Febuary: [Egg Benny](../recipe/feb/egg-benny.md)
+

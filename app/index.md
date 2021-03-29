@@ -8,11 +8,11 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
-[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+[Grilled Peach Salad](recipe/feb/oatmeal-pancakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
-[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Egg Benny](recipe/feb/egg-benny.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
@@ -20,4 +20,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
+[Roast Pork and Pickled Cucumber Sandwich](../recipe/feb/madame-croque-feb.md)
